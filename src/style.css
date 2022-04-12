@@ -1,0 +1,34 @@
+.App {
+  border: 1px;
+  background-color: #1a1b21;
+  width: 317px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.Info > h1 {
+  color: #ffffff;
+}
+
+.Info > h4 {
+  color: #f3bf99;
+}
+.Info > p {
+  color: #f5f5f5;
+}
+
+.Content h1 {
+  color: #f5f5f5;
+}
+
+.Content p {
+  color: #dcdcdc;
+}
+
+.Footer {
+  background-color: #161619;
+  border-radius: 30px;
+}
